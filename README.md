@@ -19,8 +19,8 @@ Démonstrateur : *tbd*
 
 **Compléments mathématiques**  
 
-1. Rappels mathématiques (1) <a href="https://www.youtube.com/">video</a> <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_RAPPELS_1.pdf">pdf</a> (00:00) <br /> 
-2. Rappels mathématiques (2) <a href="https://www.youtube.com/">video</a> <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_RAPPELS_1.pdf">pdf</a> (00:00) <br /> 
+1. Rappels mathématiques (1) <a href="https://www.youtube.com/">video</a> <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_RAPPELS_1.pdf">pdf</a> (40:13) <br /> 
+2. Rappels mathématiques (2) <a href="https://www.youtube.com/">video</a> <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_RAPPELS_1.pdf">pdf</a> (19:53) <br /> 
 3. Approximations <a href="https://www.youtube.com/">video</a> <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_RAPPELS_2.pdf">pdf</a> (00:00) <br /> 
 4. Calcul différentiel et optimisation <a href="https://www.youtube.com/">video</a> <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_RAPPELS_3.pdf">pdf</a> (00:00) <br /> 
 
