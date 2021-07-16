@@ -17,6 +17,8 @@ Démonstrateur : *tbd*
 1. Syllabus <a href="https://www.youtube.com/">video</a> <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_INTRO_1.pdf">pdf</a> (00:00) <br /> 
 2. Introduction à R <a href="https://www.youtube.com/">video</a> <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_INTRO_2.pdf">pdf</a> (00:00) <br /> 
 
+pour aller plus loin, une introduction <a href="https://rstudio.github.io/learnr/index.html">interractive</a> ou sinon des <a href="https://egallic.fr/Enseignement/R/Book/avant-propos.html">notes de cours</a>
+
 **Compléments mathématiques**  
 
 1. Rappels mathématiques (1) <a href="https://www.youtube.com/">video</a> <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_RAPPELS_1.pdf">pdf</a> (40:13) <br /> 
