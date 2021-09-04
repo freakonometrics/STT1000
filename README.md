@@ -4,7 +4,7 @@ Arthur Charpentier, [@freakonometrics](https://twitter.com/freakonometrics)
 
 Pour plus d'information : [https://freakonometrics.hypotheses.org](https://freakonometrics.hypotheses.org/category/courses/stt1000)
 
-Plan de cours : [Plan_ACT1000_A2021.pdf](/docs/STT1000_A2021_Plan_de_Cours.pdf)
+Plan de cours : [STT1000_A2021.pdf](/docs/STT1000_A2021.pdf)
 
 Démonstrateur : *tbd*
 
