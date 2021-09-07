@@ -12,6 +12,8 @@ Démonstrateur : *tbd*
 - la rentrée aura lieu la semaine du 7 septembre 2021
 ```
 
+Installer <a href="https://www.rstudio.com/products/rstudio/">RStudio</a> (ou la version< a href="https://rstudio.cloud/">en ligne</a>)
+
 **Seances**
 
 1. Syllabus <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_INTRO_1.pdf">pdf</a> <br /> 
