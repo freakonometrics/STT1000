@@ -12,7 +12,7 @@ Démonstrateur : *tbd*
 - la rentrée aura lieu la semaine du 7 septembre 2021
 ```
 
-Installer <a href="https://www.rstudio.com/products/rstudio/">RStudio</a> (ou la version< a href="https://rstudio.cloud/">en ligne</a>)
+Installer <a href="https://www.rstudio.com/products/rstudio/">RStudio</a> (ou la version <a href="https://rstudio.cloud/">en ligne</a>)
 
 **Seances**
 
