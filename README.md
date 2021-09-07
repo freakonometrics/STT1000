@@ -23,10 +23,9 @@ pour aller plus loin, une introduction <a href="https://rstudio.github.io/learnr
 
 **Compléments mathématiques**  
 
-1. Rappels mathématiques (1) <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_RAPPELS_1.pdf">pdf</a>  <br /> 
-2. Rappels mathématiques (2) <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_RAPPELS_1.pdf">pdf</a>  <br /> 
-3. Approximations <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_RAPPELS_2.pdf">pdf</a> <br /> 
-4. Calcul différentiel et optimisation <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_RAPPELS_3.pdf">pdf</a> <br /> 
+1. Rappels mathématiques <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_RAPPELS_1.pdf">pdf</a>  <br /> 
+2. Approximations <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_RAPPELS_2.pdf">pdf</a> <br /> 
+3. Calcul différentiel et optimisation <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_RAPPELS_3.pdf">pdf</a> <br /> 
 
 **Probabilités**  
 
