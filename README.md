@@ -9,10 +9,14 @@ Plan de cours : [STT1000_A2021.pdf](/docs/STT1000_A2021.pdf)
 Démonstrateur : *tbd*
 
 ```diff
-- la rentrée aura lieu la semaine du 7 septembre 2021
+- les démos commencent la semaine du 20 septembre 2021
 ```
 
 Installer <a href="https://www.rstudio.com/products/rstudio/">RStudio</a> (ou la version <a href="https://rstudio.cloud/">en ligne</a>)
+
+**Exercices**
+
+1. Exercices (1) <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000-Demo-Semaine-1.pdf">pdf</a> <br /> 
 
 **Seances**
 
