@@ -17,8 +17,7 @@ Installer <a href="https://www.rstudio.com/products/rstudio/">RStudio</a> (ou la
 **Exercices**
 
 1. Exercices (1) <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000-Demo-Semaine-1.pdf">pdf</a> <br /> 
-2. Exercices (2) <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000-Demo2.pdf">pdf</a> 
-(éléments de correction <a href="hhttps://github.com/freakonometrics/STT1000/raw/main/demos/Correction_STT1000.pdf">pdf</a> <br /> )
+2. Exercices (2) <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000-Demo2.pdf">pdf</a> (éléments de correction <a href="https://github.com/freakonometrics/STT1000/raw/main/demos/Correction_STT1000.pdf">pdf</a> <br /> )
 
 
 **Examen**
