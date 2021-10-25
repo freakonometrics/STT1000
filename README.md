@@ -6,7 +6,7 @@ Pour plus d'information : [https://freakonometrics.hypotheses.org](https://freak
 
 Plan de cours : [STT1000_A2021.pdf](/docs/STT1000_A2021.pdf)
 
-Démonstrateur : *tbd*
+Démonstrateur : Rawanda Matar
 
 ```diff
 - les démos commencent la semaine du 20 septembre 2021
@@ -17,8 +17,8 @@ Installer <a href="https://www.rstudio.com/products/rstudio/">RStudio</a> (ou la
 **Exercices**
 
 1. Exercices (1) <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000-Demo-Semaine-1.pdf">pdf</a> <br /> 
-2. Exercices (2) <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000-Demo2.pdf">pdf</a> (éléments de correction <a href="https://github.com/freakonometrics/STT1000/raw/main/demos/Correction_STT1000.pdf">pdf</a> )<br /> 
-
+2. Exercices (2) <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000-Demo2.pdf">pdf</a> (éléments de correction <a href="https://github.com/freakonometrics/STT1000/raw/main/demos/Correction_STT1000.pdf">pdf</a> <a href="https://github.com/freakonometrics/STT1000/raw/main/demos/Suite_Correction_Liste_N2.pdf">pdf</a>)<br /> 
+3. Exercices (3) <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000_demo_No3.pdf">pdf</a> <br /> 
 
 **Examen**
 
