@@ -9,7 +9,7 @@ Plan de cours : [STT1000_A2021.pdf](/docs/STT1000_A2021.pdf)
 Démonstrateur : Rawanda Matar
 
 ```diff
-- les démos commencent la semaine du 20 septembre 2021
+- des éléments de correction de l'examen intra sont en ligne
 ```
 
 Installer <a href="https://www.rstudio.com/products/rstudio/">RStudio</a> (ou la version <a href="https://rstudio.cloud/">en ligne</a>)
