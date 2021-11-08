@@ -65,8 +65,8 @@ pour aller plus loin, une introduction <a href="https://rstudio.github.io/learnr
 
 1. Introduction <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_TESTS_1.pdf">pdf</a> <br /> 
 2. Tests dans le cas gaussien <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_TESTS_2.pdf">pdf</a> <br /> 
-3. Tests pour une proportion <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_TEST_3.pdf">pdf</a> <br /> 
-4. Tests et erreurs <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_TEST_4.pdf">pdf</a> <br /> 
+3. Tests pour une proportion <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_TESTS_3.pdf">pdf</a> <br /> 
+4. Tests et erreurs <a href="https://github.com/freakonometrics/STT1000/blob/master/slides/STT1000_TESTS_4.pdf">pdf</a> <br /> 
 
 **Statistique dans le modèle Gaussien**
 
