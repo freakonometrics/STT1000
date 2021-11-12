@@ -9,7 +9,7 @@ Plan de cours : [STT1000_A2021.pdf](/docs/STT1000_A2021.pdf)
 Démonstrateur : Rawanda Matar
 
 ```diff
-- des éléments de correction de l'examen intra sont en ligne
+- les exercices 4 et 5 sont en ligne
 ```
 
 Installer <a href="https://www.rstudio.com/products/rstudio/">RStudio</a> (ou la version <a href="https://rstudio.cloud/">en ligne</a>)
@@ -20,6 +20,7 @@ Installer <a href="https://www.rstudio.com/products/rstudio/">RStudio</a> (ou la
 2. Exercices (2) <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000-Demo2.pdf">pdf</a> (éléments de correction <a href="https://github.com/freakonometrics/STT1000/raw/main/demos/Correction_STT1000.pdf">pdf</a> <a href="https://github.com/freakonometrics/STT1000/raw/main/demos/Suite_Correction_Liste_N2.pdf">pdf</a>)<br /> 
 3. Exercices (3) <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000_demo_No3.pdf">pdf</a> <br /> 
 4. Exercices (4) <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000_demo%204.pdf">pdf</a> <br /> 
+5. Exercices (5) <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000_A2021_5.pdf">pdf</a> <br /> 
 
 **Examen**
 
