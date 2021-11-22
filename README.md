@@ -9,7 +9,7 @@ Plan de cours : [STT1000_A2021.pdf](/docs/STT1000_A2021.pdf)
 Démonstrateur : Rawanda Matar
 
 ```diff
-- les exercices 4 et 5 sont en ligne
+- des éléments de correction de l'examen intra 2 sont en ligne
 ```
 
 Installer <a href="https://www.rstudio.com/products/rstudio/">RStudio</a> (ou la version <a href="https://rstudio.cloud/">en ligne</a>)
