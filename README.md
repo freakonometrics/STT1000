@@ -27,6 +27,7 @@ Installer <a href="https://www.rstudio.com/products/rstudio/">RStudio</a> (ou la
 
 1. Intra (1) <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000_A2020_1_enonce.pdf">énoncé</a> et <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000_A2020_1_correction.pdf">éléments de correction</a>  <br /> 
 2. Intra (2) <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000_A2020_2_enonce.pdf">énoncé</a> et <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000_A2020_2_correction.pdf">éléments de correction</a>  <br /> 
+3. Final <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000_A2020_3_enonce.pdf">énoncé</a> et <a href="https://github.com/freakonometrics/STT1000/blob/main/demos/STT1000_A2020_3_correction.pdf">éléments de correction</a>  <br /> 
 
 **Seances**
 
